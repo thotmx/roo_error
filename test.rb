@@ -32,6 +32,6 @@ end
 # "OE"=>34012.0
 ########################################################
 #
-# First row result .ods file:
+# First row result .csv file:
 #
 # "OE"=>"340120"
