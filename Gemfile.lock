@@ -1,0 +1,24 @@
+GIT
+  remote: git://github.com/roo-rb/roo.git
+  revision: 6d8e0b0e247b17d4544ce41f2cf688375608c81b
+  specs:
+    roo (2.1.1)
+      nokogiri (~> 1)
+      rubyzip (~> 1.1, < 2.0.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    mini_portile (0.6.2)
+    nokogiri (1.6.6.2)
+      mini_portile (~> 0.6.0)
+    rubyzip (1.1.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  roo!
+
+BUNDLED WITH
+   1.10.6
